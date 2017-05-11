@@ -11,9 +11,9 @@ Why this script ?
 -----------------
 The famicase website is a bit slow and it's not easy to peruse all the covers at once.	 
 So I initially created this poorly written script to grab all covers from the website into 
-a local folder. Then I decded to get the html files too as some artists had an idea about	 
+a local folder. Then I decided to get the html files too as some artists had an idea about	 
 what type of game the art should illustrate and describe it in the html file. 			 
-Unfortunately the description text was'nt displayed because of the lack of css. 			 
+Unfortunately the description text wasn't displayed because of the lack of css. 			 
 As I am lazy I just altered the batch to grab the index file and everything it needs to    
 display proper data.							 											 
 Hilariously doing so mixed up the so wanted covers with thumbs, artist pp and such :sic:	 
